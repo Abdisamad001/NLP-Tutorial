@@ -1,7 +1,7 @@
 import nbformat
 import glob
 
-# Find all notebooks in the workspace
+
 notebook_paths = glob.glob('**/*.ipynb', recursive=True)
 
 for notebook_path in notebook_paths:
@@ -20,4 +20,4 @@ for notebook_path in notebook_paths:
 
     print(f"Notebook cleaned: {notebook_path}")
 
-print("All notebooks cleaned. Try opening them in GitHub!")
+print("Cleaned")

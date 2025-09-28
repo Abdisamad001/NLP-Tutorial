@@ -1,3 +1,3 @@
 # NLP Tutorial Workshop
 
-Medinah Intro NLP Training 
+Medinah Advance NLP Training Workshop material
